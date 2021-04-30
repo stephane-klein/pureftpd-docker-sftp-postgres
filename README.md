@@ -6,3 +6,9 @@ Some resources:
 
 - [`stilliard/docker-pure-ftpd`](https://github.com/stilliard/docker-pure-ftpd)
 - [`vgist/dockerfiles`](https://github.com/vgist/dockerfiles/tree/master/pure-ftpd)
+
+## Start
+
+```sh
+$ ./scripts/up.sh
+```
